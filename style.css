@@ -1,0 +1,7 @@
+#myDiv:hover{
+    box-shadow: 40px 30px 50px grey;
+    transition: 500ms;
+}
+div{
+    background-color: antiquewhite; border-radius: 25px; text-align: center; padding: 20px; margin: 20px;
+}
